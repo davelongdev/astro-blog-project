@@ -1,7 +1,7 @@
 # Astro Starter Kit: Minimal
 
 ```
-console.log("Hello to the World from Spaceship Earth")
+console.log("Hello to the World from Spaceship Earth");
 ```
 
 ## 🚀 Project Info
