@@ -1,9 +1,9 @@
-# Astro Starter Kit: Minimal
+# Astro Blog Project
 
-```
-console.log("Hello to the World from Spaceship Earth");
-```
+##  Project Info
 
-## 🚀 Project Info
+This was the Blog Project Tutorial on [astro.build](astro.build)from 2023.
 
-This was the Astro Blog Project Tutorial.  I might use it as a template for something.
+## Continuation
+
+After finishing this tutorial, I made additional modifications and customizations which resulted in [this project](https://github.com/davelongdev/astro-site-template).
