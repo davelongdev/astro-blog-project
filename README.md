@@ -2,7 +2,7 @@
 
 ##  Project Info
 
-This was the Blog Project Tutorial on [astro.build](astro.build) from 2023.
+I built this project by following the Blog Project Tutorial on [astro.build](astro.build) from 2023.
 
 ## Continuation
 
