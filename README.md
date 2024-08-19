@@ -7,3 +7,7 @@ I built this project by following the Blog Project Tutorial on [astro.build](ast
 ## Continuation
 
 After finishing this tutorial, I made additional modifications and customizations which resulted in [this project](https://github.com/davelongdev/astro-site-template).
+
+## Link
+
+This project is live [here](https://astro-blog-project-ten.vercel.app/).
